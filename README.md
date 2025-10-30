@@ -11,6 +11,8 @@
 **DevOps | Backend | Software Engineer**
 Currently building scalable systems at [TAR Global Strategies](https://github.com/targlobal) (@targlobal).
 
+**Developer** of [CCMD](https://github.com/wisyle/ccmd/tree/ccmd
+
 I design automation pipelines, backend infrastructures, and distributed systems that don’t break under pressure. Most of my time goes into refactoring chaos into clean logic and making servers behave like they actually respect their job description.
 
 ---
